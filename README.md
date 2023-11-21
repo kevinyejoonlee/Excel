@@ -8,9 +8,9 @@ Completed "Excel Tutorials for Data Analysts" by Alex the analyst
 
 ## 2. Student Marking Application
 
-End of CP212 Windows Application project
-• Generates typed word document reports on school academic statistics, averages & standard deviations.
-• Connection and modification to database management systems, tested with multiple access databases.
+End of CP212 Windows Application project<br/>
+• Generates typed word document reports on school academic statistics, averages & standard deviations. <br/>
+• Connection and modification to database management systems, tested with multiple access databases.<br/>
 • Incorporated responsive multi-graph interpretations to communicate information with impact.
 
 ![image](https://github.com/kevinyejoonlee/Excel/assets/73869929/187ff7b8-3fbd-46f4-8e58-257ac20616d2)
