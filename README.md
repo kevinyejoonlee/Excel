@@ -1,4 +1,4 @@
-# Excel
+# Excel Work
 This repository showcases a collection of projects and courses focused on Excel. Dashboards, and VBA programming
 
 ## 1. Alex Excel Course
