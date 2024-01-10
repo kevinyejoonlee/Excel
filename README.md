@@ -1,5 +1,5 @@
 # Excel Work
-This repository showcases a collection of serveral projects and courses I have completed focused on Excel. Dashboards, and VBA programming
+This repository showcases a collection of several projects and courses I have completed focused on Excel. Dashboards, and VBA programming
 
 ## 1. Alex Excel Course
 https://www.youtube.com/@AlexTheAnalyst/videos
