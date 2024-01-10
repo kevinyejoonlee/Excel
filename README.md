@@ -6,9 +6,8 @@ https://www.youtube.com/@AlexTheAnalyst/videos
 
 Completed "Excel Tutorials for Data Analysts" by Alex the analyst 
 
-## 2. Student Marking Application
+## 2. Data Analysis Report Generator 
 
-End of CP212 Windows Application project<br/>
 • Generates typed word document reports on school academic statistics, averages & standard deviations. <br/>
 • Connection and modification to database management systems, tested with multiple access databases.<br/>
 • Incorporated responsive multi-graph interpretations to communicate information with impact.
